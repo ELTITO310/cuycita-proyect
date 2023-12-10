@@ -1,4 +1,4 @@
-import VideoThumbnail from 'react-video-thumbnail';
+import VideoThumbnail from 'react-video-thumbnail'; 
 import {useState, forwardRef, Ref, MouseEventHandler, memo} from 'react'
 import './Card.scss'
 

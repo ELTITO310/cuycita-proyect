@@ -19,7 +19,7 @@ const Nav = () => {
     })
 
     const variants = {
-        focus: i => ({
+        focus: (i: string) => ({
             scale: 1.5,
             color: i,
         }),
